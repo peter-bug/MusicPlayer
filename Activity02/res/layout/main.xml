@@ -11,6 +11,8 @@
 <Button
     android:id="@+id/myButton"
     android:layout_width="fill_parent"
-    android:layout_height="wrap_content"/>
+    android:layout_height="wrap_content"
+    android:text="@string/跳转到第二个Activity"
+    />
 
 </RelativeLayout>
